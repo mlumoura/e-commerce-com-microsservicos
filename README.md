@@ -1,9 +1,11 @@
-# Criando uma solução de e-commerce com microsserviços em Java pro bootcamp de Java da [DIO](https://web.digitalinnovation.one/home).
+#Bootcamp Capgemini Fullstack Java and Angular - [DIO](https://web.dio.me/home)
 
-Seguindo o projeto original de [checkout](https://github.com/hatanakadaniel/ecommerce-checkout-api) e [pagamento](https://github.com/hatanakadaniel/ecommerce-payment-api) do [Daniel Hatanaka](https://github.com/hatanakadaniel).e-commerce-com-microsservicos
+Criando uma solução de e-commerce com microsserviços em Java seguindo o projeto original de [checkout](https://github.com/hatanakadaniel/ecommerce-checkout-api) e [pagamento](https://github.com/hatanakadaniel/ecommerce-payment-api) do [Daniel Hatanaka](https://github.com/hatanakadaniel).
+
+Checkoug: ecommerce-checkout-api
 
 Usando:
-    Plugins: 
+    Plugins:
         Avro versão 0.99.99
         Spring boot: 2.5.6
         Spring cloud starter sleuth:3.0.4
